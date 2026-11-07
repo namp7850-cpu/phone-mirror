@@ -1,0 +1,11 @@
+Cửa sổ cỡ điện thoại, kéo thả được. scrcpy giữ đúng tỷ lệ màn hình điện thoại. Bạn kéo bằng thanh tiêu đề, kéo góc để đổi cỡ. Ô Độ phân giải (cạnh dài) quyết định cỡ ban đầu của cửa sổ.
+Luôn nằm trên cùng, bật mặc định.
+Điều khiển bằng chuột. Click là chạm, kéo là vuốt, cuộn chuột là cuộn. Bạn có thể bỏ chọn nếu chỉ muốn xem.
+Không dây. Nút USB → Wi-Fi tự lấy IP rồi chuyển sang kết nối không dây. Sau đó bạn rút USB được. Máy phải cùng mạng Wi-Fi với laptop. Trên Android 11 trở lên, bạn cũng có thể dùng Ghép nối kết hợp Kết nối IP, không cần cắm USB lần nào.
+Độ trễ. Nếu thấy trễ hoặc giật, hãy giảm độ phân giải xuống 800 và bitrate xuống 4–8. Qua Wi-Fi, mạng 5 GHz sẽ mượt hơn nhiều.
+
+Một vài phím tắt trong cửa sổ scrcpy:
+Alt+F toàn màn hình
+Alt+H về Home
+Alt+B quay lại
+Alt+S mở đa nhiệm.
