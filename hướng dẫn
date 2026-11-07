@@ -1,0 +1,4 @@
+Cách dùng
+Cài scrcpy (bản 2.0 trở lên). Trên Windows, chạy winget install Genymobile.scrcpy. Hoặc tải bản zip từ GitHub của scrcpy, giải nén, rồi để phone_mirror.py cạnh thư mục đó. Bản zip có sẵn adb, nên không cần cài thêm.
+Bật gỡ lỗi trên điện thoại. Vào Cài đặt → Giới thiệu → bấm 7 lần vào Số phiên bản, rồi bật Gỡ lỗi USB trong Tùy chọn nhà phát triển. Trên OPPO, nếu chiếu được nhưng chạm không ăn, hãy bật thêm mục Gỡ lỗi USB (Cài đặt bảo mật) hoặc Vô hiệu hóa giám sát quyền.
+Chạy app. Cắm USB, chạy python phone_mirror.py, chọn thiết bị rồi bấm Bắt đầu chiếu. Lần đầu điện thoại sẽ hỏi cho phép, bạn chọn Luôn cho phép.
